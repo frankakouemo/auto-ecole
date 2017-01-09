@@ -1,4 +1,10 @@
 import urllib2
+import os
+
+//get the last item fetch
+os.system('tail -n 1 Link.txt')
+
+
 
 for x in xrange(3281,999999):
 	url = 'http://www.cdnediser.com/formation/question/PERMISB/web-Q-image/Q{id}.jpg'
