@@ -1,5 +1,7 @@
 Hello !
 
+This project agregate all the stuff for my succes !
+how i get my licence driver ... TODO
 
 Scrapy.py : fetch API to check return is 200 HTTP status code
 
